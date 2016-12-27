@@ -1,0 +1,3 @@
+2016-12-27 10:26:43.411 [main] TRACE test - trace level
+2016-12-27 10:26:43.465 [main] DEBUG test - debug level
+2016-12-27 10:26:43.465 [main] INFO  test - info level
